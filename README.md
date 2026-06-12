@@ -45,4 +45,4 @@ swiggy-sales-analysis/
 │── LICENSE                     # License file (MIT recommended)
 │── .gitignore                  # Ignore unnecessary files (e.g., .ipynb_checkpoints, __pycache__)
 
-## Screenshots or Demo:https://github.com/asthasingh-tech727/Swiggy-Analysis/blob/main/swiggy-project-a3%20-final%20(2).pptx
+## Screenshots or Demo :https://github.com/asthasingh-tech727/Swiggy-Analysis/blob/main/swiggy-project-a3%20-final%20(2).pptx
