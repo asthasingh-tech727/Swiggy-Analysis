@@ -52,4 +52,4 @@ swiggy-sales-analysis/
 
 ## Screenshots or Demo:
 
-[Click Here to View Project Presentation](https://github.com/asthasingh-tech727/Swiggy-Analysis/blob/main/swiggy-project-a3%20-final%20(2).pptx)
+[Click Here to View Project Presentation](https://docs.google.com/presentation/d/12hKYnztumEoWSPbJ_tUXrdE3WIEWcs9L/edit?usp=drive_link&ouid=114953409845802050723&rtpof=true&sd=true)
