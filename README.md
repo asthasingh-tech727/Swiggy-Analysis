@@ -49,6 +49,8 @@ swiggy-sales-analysis/
 │── .gitignore                  # Ignore unnecessary files (e.g., .ipynb_checkpoints, __pycache__)
 
 ```
+## Data Source:
+https://github.com/asthasingh-tech727/Swiggy-Analysis/blob/main/swiggy_data.xlsx
 
 ## Screenshots or Demo:
 
